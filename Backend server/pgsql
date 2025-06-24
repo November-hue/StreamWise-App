@@ -1,0 +1,9 @@
+streamwise/
+├── client/          # React Frontend
+│   ├── public/
+│   └── src/
+│       ├── App.js
+│       └── index.js
+├── server/          # Node.js Backend
+│   └── index.js
+└── README.md
